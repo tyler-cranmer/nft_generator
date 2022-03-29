@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large Data Files
+Bad_Pics/
+images/
+layers/
+metadata/
+nff33t_test_meta/
+NFFEET_ART_2/
