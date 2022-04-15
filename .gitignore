@@ -135,5 +135,7 @@ layers/
 metadata/
 nff33t_test_meta/
 NFFEET_ART_2/
+layers-og/
 
+.DS_Store/
 .DS_Store
