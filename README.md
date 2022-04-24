@@ -25,7 +25,7 @@ Install iPython
  pip install ipython
  ```
 
-##Usage
+## Usage
 
 In order for the code to work, you must generate an image, layers and metadata folder.
 
@@ -33,7 +33,7 @@ In order for the code to work, you must generate an image, layers and metadata f
 mkdir images && mkdir layer && mkdir metadata
 ```
 
-##Disclaimer
+## Disclaimer
 
 If anyone is interested in using this as a framework, you will need to configure the code to match your collection parameters. Currently, this notebook is configured to for my project and the layering files have been removed. 
 
